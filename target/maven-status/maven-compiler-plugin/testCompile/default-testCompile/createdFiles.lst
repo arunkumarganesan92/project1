@@ -1,0 +1,5 @@
+org\cucumber_task\Hooks.class
+org\cucumber_task\Runner.class
+org\cucumber_task\MobilePurchasePOM.class
+org\cucumber_task\CommonClass.class
+org\cucumber_task\AmazonMobilePurchase.class
